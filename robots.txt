@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dep47.github.io/swaraj-enterprise-website/sitemap.xml
